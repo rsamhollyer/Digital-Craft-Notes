@@ -35,7 +35,7 @@ Numbers fall in to two categories; *integers* and *floats*.
     4.5
     -23233.774345
 ```
-To manipualte those numbers, Python has built mathematical operators to help perform whatever calculation you need. 
+### To manipualte those numbers, Python has built mathematical operators to help perform whatever calculation you need. 
 
 - ```python
 3+2 #addition
