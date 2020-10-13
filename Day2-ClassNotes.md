@@ -51,5 +51,19 @@ Further more, you can assign those numbers to a variable and manipulate the numb
     b = 200
     print(a + b) # 300
     print(a - b) # -100
-    print(a / b) # 1/2
+    print(a / b) # 0.5
     print(a * b) # 20000
+
+More complicated operations use *incrementers* and *decrementers* which will change the value of the output by some amount
+- ```python
+    number = 100
+    increment = 2
+    print(number, increment) #100 2
+    number += increment
+    print(number) #102
+
+    number -= increment
+    print(number) #100
+
+    number *= increment
+    print(number) #200
