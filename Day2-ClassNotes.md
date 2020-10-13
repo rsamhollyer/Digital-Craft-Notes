@@ -47,9 +47,9 @@ To manipualte those numbers, Python has built mathematical operators to help per
 Further more, you can assign those numbers to a variable and manipulate the numbers through that assignment and print to console your output
 
 - ```python
-a = 100
-b = 200
-print(a + b) # 300
-print(a - b) # -100
-print(a / b) # 1/2
-print(a * b) # 20000
+    a = 100
+    b = 200
+    print(a + b) # 300
+    print(a - b) # -100
+    print(a / b) # 1/2
+    print(a * b) # 20000
