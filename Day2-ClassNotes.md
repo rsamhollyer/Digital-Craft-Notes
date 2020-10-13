@@ -18,3 +18,5 @@ message = "Hello World"
 print(message) 
 # The Variable is using the value assigned to it.
 ```
+Words, or rather, *strings* aren't the only thing that can be assigned. Numbers and booleans (Truthy or Falsy) are capable of being given a variable assignment.
+
