@@ -20,3 +20,19 @@ print(message)
 ```
 Words, or rather, *strings* aren't the only thing that can be assigned. Numbers and booleans (Truthy or Falsy) are capable of being given a variable assignment.
 
+### Numbers
+Numbers fall in to two categories; *integers* and *floats*. 
+
+- ```python
+    #integers
+    1
+    123
+    -234
+    0
+- ```python
+    #floats
+    1.3
+    4.5
+    -23233.774345
+
+    
