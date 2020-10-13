@@ -35,4 +35,20 @@ Numbers fall in to two categories; *integers* and *floats*.
     4.5
     -23233.774345
 
-    
+    To manipualte those numbers, Python has built mathematical operators to help perform whatever calculation you need. 
+    - ```python
+    3+2 #addition
+    3-2 #subtraction
+    3*2 #multiplication
+    3/2 #division
+    3+2*3/2 #order of operation
+
+Further more, you can assign those numbers to a variable and manipulate the numbers through that assignment and print to console your output
+
+- ```python
+a = 100
+b = 200
+print(a + b) # 300
+print(a - b) # -100
+print(a / b) # 1/2
+print(a * b) # 20000
